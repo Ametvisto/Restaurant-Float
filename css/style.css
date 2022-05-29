@@ -1,0 +1,192 @@
+.main-body {
+    padding: 82px 163px;
+}
+.satauri {
+    color: #5863F8;
+    font-size: 14px;
+    width: 92px;
+   
+}
+.satauri2 {
+    color: #000000;
+    font-size: 42px;
+    width: 498px;
+    margin-bottom: 50px;
+    font-size: bold;
+}
+.box1 {
+    width: 536px;
+    float: left;
+    margin: 52px auto;
+    vertical-align: middle;
+
+}
+.image1 {
+    float: left;
+    vertical-align: middle;
+
+}
+.content1 {
+    float: right;
+    padding-bottom: 37px;
+    vertical-align: middle;
+
+}
+.text1 {
+    width: 260px;
+    color: #B1B1B1;
+    height: 62px;
+    font-size: 14px;
+    margin-right: 16px;
+    vertical-align: middle;
+
+}
+.satauri3 {
+    color: #5863F8;
+    font-size: 14px;
+    font-style: bold;
+    vertical-align: middle;
+
+}
+.satauri4 {
+    color: #000000;
+    font-size: 18px;
+    font-style: bold;
+    vertical-align: middle;
+
+}
+.box2 {
+    width: 536px;
+    float: right;
+    margin: 52px auto;
+    vertical-align: middle;
+}
+.box3 {
+    margin-top: 16px;
+    width: 536px;
+    float: left;
+    margin: 0 auto;
+    vertical-align: middle;
+
+}
+.box4 {
+    margin-top: 16px;
+    width: 536px;
+    float: right;
+    margin: 0 auto;
+    vertical-align: middle;
+
+}
+.satauri-body {
+    color: #5863F8;
+    font-size: 14px;
+    width: 92px;
+    margin-top: 90px;
+}
+
+.satauri-body {
+    color: #5863F8;
+    font-size: 14px;
+    width: 92px;
+    margin-left: 163px;
+    margin-top: 90px;
+}
+
+.satauri-miure {
+    width: 465px;
+    margin-left: 163px;
+    color: #000000;
+    font-size: 42px;
+    margin-bottom: 45px;
+
+}
+.box-wraper {
+    float: left;
+}
+.box5 {
+    width: 354px;
+    margin-left: 163px;
+    float: left;
+    vertical-align: middle;
+    
+}
+.image2 {
+    width: 352px;
+    vertical-align: middle;
+   
+}
+
+.life {
+    color: #5863F8;
+    font-size: 14px;
+    font-style: bold;
+    vertical-align: middle;
+}
+.life2 {
+    color: #000000;
+    font-size: 18px;
+    font-style: bold;
+    vertical-align: middle;
+}
+.text2 {
+    width: 260px;
+    color: #B1B1B1;
+    height: 62px;
+    font-size: 14px;
+    margin-right: 16px;
+    vertical-align: middle;
+}
+
+.box6 {
+    width: 354px;
+    margin-left: 163px;
+    float: right;
+    margin-right: 163px;
+    vertical-align: middle;
+
+}
+
+.box7 {
+    width: 354px;
+    margin-left: 163px;
+    float: right;
+    margin-right: 163px;
+    vertical-align: middle;
+
+}
+
+.box9 {
+    width: 354px;
+    margin-left: 163px;
+    float: left;
+    margin-right: 163px;
+    vertical-align: middle;
+
+}
+
+.box8 {
+    width: 354px;
+    margin-left: 163px;
+    float: left;
+    margin-right: 163px;
+    vertical-align: middle;
+
+}
+
+
+
+.box10 {
+    width: 354px;
+    margin-left: 163px;
+    float: right;
+    margin-right: 163px;
+    vertical-align: middle;
+
+}
+
+.content2 {
+    margin: 23px auto;
+    vertical-align: middle;
+
+}
+
