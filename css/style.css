@@ -1,10 +1,56 @@
-.main-body {
-    padding: 82px 163px;
+ .container {
+    width: 1088px;
+    margin: 0 auto;
 }
+.f-left {
+    float: left;
+}
+.f-right {
+    float: right;
+}
+.clear {
+    clear: both;
+}
+   
+/* Section */
+.first-block,
+.second-block,
+.third-block,
+.fourth-block {
+    width: 536px;
+    background-color:#F8F8F8;
+    
+}
+.first-block,
+.second-block {
+ margin-bottom: 16px;
+}
+.box-wraper::after {
+    content: "";
+    clear: both;
+    display: block;
+}
+
+.image-block {
+    margin-right: 16px;
+}
+.text-wraper {
+    float: left;
+    width: 260px;
+    color: #B1B1B1;
+    padding-top: 30px;
+}
+
+
+
+
+
+
 .satauri {
     color: #5863F8;
     font-size: 14px;
     width: 92px;
+    margin-top: 82px;
    
 }
 .satauri2 {
@@ -14,53 +60,8 @@
     margin-bottom: 50px;
     font-size: bold;
 }
-.box1 {
-    width: 536px;
-    float: left;
-    margin: 52px auto;
-    vertical-align: middle;
 
-}
-.image1 {
-    float: left;
-    vertical-align: middle;
 
-}
-.content1 {
-    float: right;
-    padding-bottom: 37px;
-    vertical-align: middle;
-
-}
-.text1 {
-    width: 260px;
-    color: #B1B1B1;
-    height: 62px;
-    font-size: 14px;
-    margin-right: 16px;
-    vertical-align: middle;
-
-}
-.satauri3 {
-    color: #5863F8;
-    font-size: 14px;
-    font-style: bold;
-    vertical-align: middle;
-
-}
-.satauri4 {
-    color: #000000;
-    font-size: 18px;
-    font-style: bold;
-    vertical-align: middle;
-
-}
-.box2 {
-    width: 536px;
-    float: right;
-    margin: 52px auto;
-    vertical-align: middle;
-}
 .box3 {
     margin-top: 16px;
     width: 536px;
