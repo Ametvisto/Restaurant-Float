@@ -1,6 +1,7 @@
  .container {
     width: 1088px;
     margin: 0 auto;
+    padding-bottom: 87px;
 }
 .f-left {
     float: left;
@@ -11,7 +12,24 @@
 .clear {
     clear: both;
 }
+
+
+/* /*header/* */
+.satauri {
+    color: #5863F8;
+    font-size: 14px;
+    width: 92px;
+    margin-top: 82px;
    
+}
+.satauri2 {
+    color: #000000;
+    font-size: 42px;
+    width: 498px;
+    margin-bottom: 50px;
+    font-size: bold;
+}
+
 /* Section */
 .first-block,
 .second-block,
@@ -29,6 +47,7 @@
     content: "";
     clear: both;
     display: block;
+    margin-bottom: 90px;
 }
 
 .image-block {
@@ -36,89 +55,64 @@
 }
 .text-wraper {
     float: left;
-    width: 260px;
+    width: 352px;
     color: #B1B1B1;
     padding-top: 30px;
+    text-align: center;
 }
-
-.box-wraper2 {
-    width: 1088px;
-}
-
-
-
-
-.satauri {
+.first-block-header,
+.second-block-header,
+.third-block-header,
+.fourth-block-header {
     color: #5863F8;
     font-size: 14px;
     width: 92px;
-    margin-top: 82px;
-   
+    margin: 0 150px;
 }
-.satauri2 {
+
+.first-block-title,
+.second-block-title,
+.third-block-title,
+.fourth-block-title {
     color: #000000;
-    font-size: 42px;
-    width: 498px;
-    margin-bottom: 50px;
+    font-size: 18px;
     font-size: bold;
+    text-align: center;
+    
 }
-
-
-
-
 
 .satauri-body {
     color: #5863F8;
     font-size: 14px;
-    width: 92px;
-    margin-left: 163px;
-    margin-top: 90px;
+    width: 498px;
 }
 
 .satauri-miure {
     width: 465px;
-    margin-left: 163px;
     color: #000000;
     font-size: 42px;
     margin-bottom: 45px;
+    font-style: bold;
+    margin-bottom: 30px;
+}
 
+.box-wraper2 {
+    width: 1088px;
+    margin-bottom: 16px;
 }
-.box-wraper {
-    float: left;
-}
-.box5 {
+
+.first-wraper,
+.second-wraper,
+.third-wraper {
     width: 354px;
-    margin-left: 163px;
-    float: left;
-    vertical-align: middle;
+    background-color:#F8F8F8;
+    margin-bottom: 30px;
     
 }
-.image2 {
-    width: 352px;
-    vertical-align: middle;
-   
+.third-wraper {
+    margin-left: 14px;
 }
 
-.life {
-    color: #5863F8;
-    font-size: 14px;
-    font-style: bold;
-    vertical-align: middle;
-}
-.life2 {
-    color: #000000;
-    font-size: 18px;
-    font-style: bold;
-    vertical-align: middle;
-}
-.text2 {
-    width: 260px;
-    color: #B1B1B1;
-    height: 62px;
-    font-size: 14px;
-    margin-right: 16px;
-    vertical-align: middle;
-}
 
 
 
