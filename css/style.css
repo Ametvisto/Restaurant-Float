@@ -41,7 +41,9 @@
     padding-top: 30px;
 }
 
-
+.box-wraper2 {
+    width: 1088px;
+}
 
 
 
@@ -62,28 +64,8 @@
 }
 
 
-.box3 {
-    margin-top: 16px;
-    width: 536px;
-    float: left;
-    margin: 0 auto;
-    vertical-align: middle;
 
-}
-.box4 {
-    margin-top: 16px;
-    width: 536px;
-    float: right;
-    margin: 0 auto;
-    vertical-align: middle;
 
-}
-.satauri-body {
-    color: #5863F8;
-    font-size: 14px;
-    width: 92px;
-    margin-top: 90px;
-}
 
 .satauri-body {
     color: #5863F8;
@@ -138,56 +120,5 @@
     vertical-align: middle;
 }
 
-.box6 {
-    width: 354px;
-    margin-left: 163px;
-    float: right;
-    margin-right: 163px;
-    vertical-align: middle;
 
-}
-
-.box7 {
-    width: 354px;
-    margin-left: 163px;
-    float: right;
-    margin-right: 163px;
-    vertical-align: middle;
-
-}
-
-.box9 {
-    width: 354px;
-    margin-left: 163px;
-    float: left;
-    margin-right: 163px;
-    vertical-align: middle;
-
-}
-
-.box8 {
-    width: 354px;
-    margin-left: 163px;
-    float: left;
-    margin-right: 163px;
-    vertical-align: middle;
-
-}
-
-
-
-.box10 {
-    width: 354px;
-    margin-left: 163px;
-    float: right;
-    margin-right: 163px;
-    vertical-align: middle;
-
-}
-
-.content2 {
-    margin: 23px auto;
-    vertical-align: middle;
-
-}
 
